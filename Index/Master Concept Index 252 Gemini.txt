@@ -1,0 +1,1302 @@
+================================================================================
+MASTER CONCEPT INDEX
+Project:         A47-PRO-2
+Total Concepts:  252
+Generated:       2026-01-07
+Index Version:   1.0
+================================================================================
+INDEX ENTRIES BY DOMAIN
+DOMAIN: CIV-SYS (CIV)
+Concept Count: 46
+[MASTER-CIV-001] Technocratic Plantation Model
+Domain: CIV-SYS | Novelty: AUTHOR-COINED | Source: S00
+Dependencies: None (foundational)
+Relationships: COMP->S00-CIV-SYS-02, ENAB->S00-PSYCH-01, ENAB->S00-PSYCH-02, CONTRA->S00-CIV-SYS-03
+Treatment: FOUNDATIONAL — Must be established early with full explanation.
+[MASTER-CIV-002] Trojan Horse Mechanism
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S00
+Dependencies: CIV-001
+Relationships: COMP<-CIV-001, ENAB->S00-PSYCH-01
+Treatment: ILLUSTRATIVE — Use to explain HOW plantation model operates.
+[MASTER-CIV-003] Symbiotic Civilization
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S00
+Dependencies: CIV-001, S00-THEO-01
+Relationships: CONTRA->CIV-001, ENAB-BY->LIB-001, GRND<-S00-THEO-01
+Treatment: ASPIRATIONAL — This is the positive vision.
+[MASTER-CIV-004] Parasitic Elite Ruling Class
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S01
+Dependencies: S00-CIV-SYS-04
+Relationships: INST->S00-CIV-SYS-04, ENAB->CTRL-002, CONTRA->Productive/symbiotic elite model
+Treatment: FOUNDATIONAL — Key application of parasitic/symbiotic binary to class analysis.
+[MASTER-CIV-005] Globalist Deep State Beast
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S01
+Dependencies: CIV-001
+Relationships: EXT->CIV-001, PARA->Biblical "beast" imagery, ENAB->S01-CTRL-MECH-01
+Treatment: ILLUSTRATIVE — Vivid metaphor for abstract concept.
+[MASTER-CIV-006] Labor and Energy Harvesting Machine
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S01
+Dependencies: CIV-001
+Relationships: MECH->CIV-001, ENAB-BY->HIST-005, ENAB->CTRL-MECH-03
+Treatment: STRUCTURAL — Describes the MECHANISM by which plantation operates economically.
+[MASTER-CIV-007] Siren Song of Globalism
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S02
+Dependencies: CIV-002
+Relationships: INST->CIV-002, ENAB->S02-PSYCH-02, EXPO-BY->S02-LIB-MECH-06
+Treatment: EXPANSION — Names specific contemporary manifestations of Trojan Horse mechanism.
+[MASTER-CIV-008] Ideological Battle Framework
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S02
+Dependencies: None (framing concept)
+Relationships: CONTEXT->LIB-001, CONTEXT->S02-CTRL-MECH-01, ASYM->CIV-003
+Treatment: FRAMING — Establishes asymmetry of conflict.
+[MASTER-CIV-009] Common Sense as Liberation Tool
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S02
+Dependencies: S02-LIB-MECH-03
+Relationships: METH->S02-LIB-MECH-03, CONTRA->S02-CTRL-MECH-01, THEME->REF-A47-PREAMBLE-01
+Treatment: RHETORICAL — Explains Trump's communication style as strategic.
+[MASTER-CIV-010] Covert Slavery System / Parasitic Economy
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-001, CIV-006
+Relationships: EXT->CIV-001, EXT->CIV-006, ENAB->CTRL-015, CONTRA->CIV-003
+Treatment: FOUNDATIONAL — This is S03's primary expansion of S00's Technocratic...
+[MASTER-CIV-011] Benevolent Elite vs Parasitic Elite Distinction
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S03
+Dependencies: S02-CTRL-MECH-03, CIV-004
+Relationships: EXT->S02-CTRL-MECH-03, EXT->CIV-004, GRND->Symbiotic/Parasitic binary
+Treatment: NUANCED — Not all elite governance is parasitic.
+[MASTER-CIV-012] Trust vs Coercion Binary
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-003, S00-CIV-SYS-04
+Relationships: GRND->Symbiotic/Parasitic distinction, ENAB->LIB-MECH-01, CONTRA->Modern economic arrangements
+Treatment: CORE FRAMEWORK — Binary that underlies entire series argument.
+[MASTER-CIV-013] Legislative Branch Failure Thesis
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S03
+Dependencies: S02-CTRL-MECH-03, S03-LIB-MECH-03
+Relationships: ENAB->Understanding of Trump's executive action, EXT->S02-CTRL-MECH-03, REQ->S03-LIB-MECH-03
+Treatment: STRUCTURAL DIAGNOSIS — Explains WHY current situation exists without blame-shifting.
+[MASTER-CIV-014] Three Functions of Social Power
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S03
+Dependencies: S03-THEO-01, S03-LIB-MECH-06
+Relationships: GRND->LIB-024, EXT->Separation of powers doctrine, ENAB->Executive action justification
+Treatment: FOUNDATIONAL — Explains WHY executive can act against censorship.
+[MASTER-CIV-015] True Rule of Law Coherence Test
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S03
+Dependencies: S03-EPIST-04, CIV-013
+Relationships: APPL->S03-EPIST-04, EXT->CIV-013, GRND->Need for extraordinary action
+Treatment: DIAGNOSTIC — Provides TEST for whether true rule of law exists.
+[MASTER-CIV-016] Civilization as Game Framework
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S03
+Dependencies: CTRL-015, S03-LIB-MECH-09
+Relationships: EXT->CTRL-015, ILLUS->S03-LIB-MECH-09, ENAB->Understanding due process purpose
+Treatment: ACCESSIBLE METAPHOR — Game/referee analogy makes abstract justice concepts concrete.
+[MASTER-CIV-017] Political HIV-AIDS Metaphor
+Domain: CIV-SYS | Novelty: AUTHOR-COINED | Source: S03
+Dependencies: S03-LIB-MECH-09, CIV-010
+Relationships: EXT->S03-LIB-MECH-09, ILLUS->CIV-010, ENAB->Understanding total system compromise
+Treatment: VIVID METAPHOR — Striking image that may be controversial but memorable.
+[MASTER-CIV-018] Civilization as Ultimate Technology
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-003, S03-LIB-MECH-06
+Relationships: EXT->CIV-003, GRND->S03-LIB-MECH-06, ENAB->Understanding how civilization can be "broken"
+Treatment: REFRAME — Shifts civilization from abstract to concrete "technology" that can...
+[MASTER-CIV-019] Freedom-Slavery Civilizational Spectrum
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-003, S00-CIV-SYS-04, CIV-010
+Relationships: EXT->Symbiotic/Parasitic binary, GRND->CIV-010, ENAB->Civilizational diagnosis
+Treatment: VISUAL FRAMEWORK — Spectrum/poles metaphor helps readers locate where civilizations sit.
+[MASTER-CIV-020] Trust and Prosperity Relationship
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-012, S03-CIV-SYS-08
+Relationships: GRND->CIV-012, ENAB->S03-CIV-SYS-08
+Treatment: Universal principle from atomic to civilizational scale;
+[MASTER-CIV-021] The Trust Relationship (Golden Age Foundation)
+Domain: CIV-SYS | Novelty: AUTHOR-COINED | Source: S03
+Dependencies: CIV-020, S03-LIB-MECH-02, S03-META-01
+Relationships: COMP->CIV-020, GRND->S03-LIB-MECH-02, ENAB->S03-META-01
+Treatment: CULMINATING CONCEPT for Part 2;
+[MASTER-CIV-022] Contract Theory Expanded (Power of Attorney Analogy)
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-012, LIB-029, THEO-004
+Relationships: EXT->CIV-012, EXT->LIB-029, GRND->Legitimacy of citizen resistance, PARA->CIV-020
+Treatment: LEGAL-PHILOSOPHICAL — Deepens the contract framework beyond [S03-CIV-SYS-03] Trust vs...
+[MASTER-CIV-023] Narrow Path Principle
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-019, LIB-020, CIV-018
+Relationships: GRND->CIV-019, GRND->LIB-020, EXT->CIV-018, PARA->Garden of Eden
+Treatment: FOUNDATIONAL METAPHOR — This principle underlies [S03-CIV-SYS-10] Freedom-Slavery Spectrum but...
+[MASTER-CIV-024] Prohibition-to-Pharma Pipeline
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: BR
+Dependencies: CIV-010
+Relationships: INST->CIV-010, PARA->BR-HIST-01
+Treatment: HISTORICAL PATTERN — Shows how parasitic capital flows from illicit to...
+[MASTER-CIV-025] Economic Cycle as Middle Manager Farm
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: BR
+Dependencies: BR-CTRL-MECH-01
+Relationships: ENAB-BY->BR-CTRL-MECH-01, PARA->BR-HIST-01
+Treatment: STRUCTURAL — Explains economic hype as social engineering tool.
+[MASTER-CIV-026] Middle Manager as Enforcement Layer
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: BR
+Dependencies: BR-CTRL-MECH-01
+Relationships: INST->CIV-011, ENAB->BR-PSYCH-01
+Treatment: KEY ACTOR GROUP — Identifies the "buffer" class between elites and masses.
+[MASTER-CIV-027] Parasitic Network Structure
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: BR
+Dependencies: CIV-026
+Relationships: COMP->CIV-026, EXT->CIV-010
+Treatment: STRUCTURAL MODEL — Visualizes the hierarchy.
+[MASTER-CIV-028] Tariff as Middle Manager Disruption
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: BR
+Dependencies: LIB-006
+Relationships: MECH->GEOPOL-008, EXT->LIB-006
+Treatment: ECONOMIC LEVER — Explains tariffs' strategic role beyond economics—as social engineering...
+[MASTER-CIV-029] Deep State as Parasitic Entity
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: BR
+Dependencies: CIV-003
+Relationships: CONTRA->CIV-003, ENAB->GEOPOL-010
+Treatment: CORE METAPHOR — Reinforces symbiotic/parasitic binary.
+[MASTER-CIV-030] Epstein Files as Systemic Exposure Tool
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: BR
+Dependencies: CTRL-033
+Relationships: GRND->CTRL-033, ENAB->GEOPOL-012
+Treatment: EVIDENTIARY — Ties to real-world scandal.
+[MASTER-CIV-031] Engineered Grid Vulnerability
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: EG
+Dependencies: EG-CTRL-MECH-01, EG-STRAT-OPS-03
+Relationships: ENAB->CTRL-037, GRND->STRAT-009, PARA->STRAT-001
+Treatment: FOUNDATIONAL — Core vulnerability enabling parasitic control.
+[MASTER-CIV-032] Cascading Dependency Chains
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: EG
+Dependencies: CIV-031
+Relationships: COMP->CIV-031, ENAB->CTRL-044
+Treatment: STRUCTURAL — Illustrates how grid vulnerability amplifies to systemic collapse.
+[MASTER-CIV-033] Post-Industrial Addiction Structure
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: EG
+Dependencies: CIV-031
+Relationships: GRND->CIV-031, PARA->financial system as control mechanism
+Treatment: HISTORICAL — Shows deliberate entanglement.
+[MASTER-CIV-034] Symbiotic vs Parasitic Civilizational Models
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: EG
+Dependencies: All liberation and control mechanisms
+Relationships: GRND->All liberation and control mechanism concepts, PARA->core series framework
+Treatment: CORE BINARY — Central distinction.
+[MASTER-CIV-035] Free-Range Plantation Model
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-040
+Relationships: COMP->CTRL-040, PARA->false democracy mechanisms
+Treatment: METAPHOR — Modern update to plantation model.
+[MASTER-CIV-036] Dual-World Bifurcation
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: EG
+Dependencies: STRAT-009
+Relationships: ENAB->STRAT-009, CONTRA->LIB-037
+Treatment: DYSTOPIAN — Illustrates elite separation.
+[MASTER-CIV-037] Family Atomization as Population Suppression
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-041
+Relationships: COMP->CTRL-041, PARA->institutional control mechanisms
+Treatment: SOCIAL — Shows family as target.
+[MASTER-CIV-038] Civilizational Design vs Technological Limitation
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: EG
+Dependencies: CIV-031
+Relationships: GRND->CIV-031, ENAB->CTRL-045
+Treatment: INTENTIONALITY — Emphasizes design over accident.
+[MASTER-CIV-039] Waterline Effect (Economic Stratification)
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-042
+Relationships: COMP->CTRL-042, PARA->financial inequality mechanisms
+Treatment: METAPHOR — Visualizes class divide.
+[MASTER-CIV-040] Hidden Currencies vs Declared Currencies
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: EG
+Dependencies: CIV-039
+Relationships: COMP->CIV-039, PARA->financial control mechanisms
+Treatment: FINANCIAL — Explains wealth gap.
+[MASTER-CIV-041] Breakaway Civilization Concept
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-045
+Relationships: ENAB->CTRL-045, COMP->CIV-036
+Treatment: HYPOTHESIS (per Catherine Austin Fitts) of a hidden system of...
+[MASTER-CIV-042] Post-Catastrophe Civilizational Replacement
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: EG
+Dependencies: STRAT-009
+Relationships: ENAB->STRAT-009, CONTRA->LIB-037
+Treatment: DARK SPECULATION — Contrast with positive mass survivability.
+[MASTER-CIV-043] Self-Running Slavery Society
+Domain: CIV-SYS | Novelty: AUTHOR-COINED | Source: MEMO
+Dependencies: None (foundational concept)
+Relationships: GRND->PSYCH-015, ENAB->CTRL-052, PARA->ClaCON concepts
+Treatment: FOUNDATIONAL — Core framing for entire thesis.
+[MASTER-CIV-044] Society as Coordinated Symphony
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: None
+Relationships: GRND->STRAT-001, ENAB->STRAT-002
+Treatment: FOUNDATIONAL — Key analogy grounding strategic constraint.
+[MASTER-CIV-045] Ship Analogy (Hijacked Vessel)
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: CIV-044
+Relationships: COMP->CIV-044, GRND->STRAT-001, ENAB->PSYCH-016
+Treatment: ILLUSTRATIVE — Extended metaphor for entire series.
+[MASTER-CIV-046] Parasitic Labor Harvesting
+Domain: CIV-SYS | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: CIV-043
+Relationships: COMP->CIV-043, ENAB->CTRL-052
+Treatment: OPERATIVE — Explains HOW self-running slavery perpetuates.
+DOMAIN: CTRL-MECH (CTRL)
+Concept Count: 53
+[MASTER-CTRL-001] Threefold Control Domain
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S00
+Dependencies: CIV-001
+Relationships: COMP<-CIV-001, COMP->Material/Mental/Spiritual control
+Treatment: STRUCTURAL — Key framework for analyzing control mechanisms.
+[MASTER-CTRL-002] Globalist Network Structure
+Domain: CTRL-MECH | Novelty: ESTABLISHED | Source: S00
+Dependencies: CIV-001
+Relationships: ENAB->CIV-001, CONTRA->LIB-001
+Treatment: EVIDENTIARY — Provides concrete institutional grounding for abstract "globalist" claims.
+[MASTER-CTRL-003] Temporal Scope of Agenda
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S00
+Dependencies: None (contextual framing)
+Relationships: GRND->CIV-001, PARA->HIST-001
+Treatment: REFRAMING — Critical for reader orientation.
+[MASTER-CTRL-004] Weaponized Human Needs
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S01
+Dependencies: S00-CTRL-MECH-02
+Relationships: MECH->S00-CTRL-MECH-02, ENAB-BY->CIV-005, ENAB->PSYCH-001
+Treatment: PSYCHOLOGICAL — Key insight into HOW control operates at individual...
+[MASTER-CTRL-005] Placation Schemes
+Domain: CTRL-MECH | Novelty: AUTHOR-COINED | Source: S01
+Dependencies: S00-CTRL-MECH-03
+Relationships: ENAB->S00-CTRL-MECH-03, PARA->"Controlled opposition", CONTRA->Genuine participation
+Treatment: DISILLUSIONMENT — May challenge readers who believe in these mechanisms.
+[MASTER-CTRL-006] Debt Enslavement Mechanism
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S01
+Dependencies: CIV-006
+Relationships: COMP->CIV-006, ENAB-BY->HIST-005, ILLUS->CIV-002
+Treatment: ECONOMIC — Core mechanism of modern control.
+[MASTER-CTRL-007] Corporate Consolidation (BlackRock/Vanguard)
+Domain: CTRL-MECH | Novelty: ESTABLISHED | Source: S01
+Dependencies: CIV-004
+Relationships: INST->CIV-004, MECH->CTRL-002, ENAB->CTRL-006
+Treatment: EVIDENTIARY — Names specific entities.
+[MASTER-CTRL-008] Global Economic Corruption Swamp
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S01
+Dependencies: CTRL-002
+Relationships: INST->CTRL-002, GRND->LIB-006, CONTRA->LIB-007
+Treatment: DIAGNOSTIC — Explains WHY tariffs are needed.
+[MASTER-CTRL-009] Propaganda and Manufactured Consent
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S02
+Dependencies: CTRL-001
+Relationships: EXT->CTRL-001, ENAB->PSYCH-003, ENAB->PSYCH-002, PARA->CTRL-010
+Treatment: FOUNDATIONAL — Expands on S00's Threefold Control by detailing the...
+[MASTER-CTRL-010] Plato's Cave Media Dynamic
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S02
+Dependencies: CTRL-009
+Relationships: ILLUS->CTRL-009, PARA->HIST-002, ENAB->PSYCH-003
+Treatment: ILLUSTRATIVE — Powerful classical reference for educated audiences.
+[MASTER-CTRL-011] Elite Stewardship Betrayal
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S02
+Dependencies: CIV-001
+Relationships: ENAB->CIV-001, CONTRA->LIB-015
+Treatment: MORAL FRAMING — Establishes moral dimension of critique.
+[MASTER-CTRL-012] Slow-Roll Implementation Strategy
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S02
+Dependencies: CTRL-003
+Relationships: MECH->CTRL-003, ENAB->PSYCH-002, ENAB->PSYCH-004
+Treatment: TEMPORAL REFRAMING — Reinforces S00's 200-year scope with mechanism explanation.
+[MASTER-CTRL-013] Weaponization of Culture
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S02
+Dependencies: CTRL-009
+Relationships: ENAB-BY->CTRL-009, ENAB->PSYCH-004, COMP->CIV-001
+Treatment: STRUCTURAL — Key concept linking material distraction (work, survival) to...
+[MASTER-CTRL-014] National Dream Manipulation
+Domain: CTRL-MECH | Novelty: AUTHOR-COINED | Source: S02
+Dependencies: CTRL-009
+Relationships: ENAB-BY->CTRL-009, TARG-BY->LIB-010, PARA->CTRL-001
+Treatment: CONCEPTUAL — Sophisticated concept linking culture, spirit, and control.
+[MASTER-CTRL-015] Con Artist Taxonomy
+Domain: CTRL-MECH | Novelty: AUTHOR-COINED | Source: S03
+Dependencies: CIV-010
+Relationships: MECH->CIV-010, ENAB->CTRL-009, PARA->CTRL-005
+Treatment: ILLUSTRATIVE — Powerful accessible metaphor mapping familiar con artist structure to...
+[MASTER-CTRL-016] Globalist Hydra Definition
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-002, CIV-005
+Relationships: DEF->Prior uses, EXT->CIV-002, EXT->CIV-005, COMP->CTRL-017
+Treatment: DEFINITIONAL — S03 provides explicit definition lacking in earlier installments.
+[MASTER-CTRL-017] Hidden Hand Coordination Thesis
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: CTRL-016
+Relationships: ENAB->CTRL-016, GRND->Analysis of coordinated events, PARA->GEOPOL-003
+Treatment: EPISTEMIC CAUTION — Author explicitly notes this is pattern recognition...
+[MASTER-CTRL-018] Technocracy as Hijacked Coordination
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-010
+Relationships: MECH->CIV-010, EXT->CIV-001, CONTRA->Natural coordination
+Treatment: FORWARD-LOOKING — Connects current technocratic trends to dystopian endpoint.
+[MASTER-CTRL-019] Cult Control Mechanism
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: CTRL-009, PSYCH-003
+Relationships: EXT->CTRL-009, MECH->PSYCH-003, ENAB->Censorship, XREF->Cultology
+Treatment: CONNECTS TO CULTOLOGY — Direct bridge to companion series.
+[MASTER-CTRL-020] Overton Window as Control Valve
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: S02-CTRL-MECH-03, CTRL-009
+Relationships: EXT->S02-CTRL-MECH-03, MECH->CTRL-009, CONTRA->Awakened citizenry
+Treatment: MECHANISM — Key tool connecting propaganda to policy outcomes.
+[MASTER-CTRL-021] Censorship Industrial Complex as RICO Enterprise
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: CTRL-016, CTRL-017
+Relationships: ENAB->Legal prosecution pathway, EXT->CTRL-017, GRND->Trump investigation
+Treatment: LEGAL FRAMING — Frames censorship as prosecutable criminal enterprise, not...
+[MASTER-CTRL-022] Censorship Funding Pipeline
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: CTRL-021, HIST-005
+Relationships: MECH->CTRL-021, EXT->HIST-005, ENAB->Defunding strategy
+Treatment: FOLLOW THE MONEY — Concrete mechanism showing how censorship is funded.
+[MASTER-CTRL-023] Algorithmic Sovereignty Threat
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: LIB-019, CTRL-018
+Relationships: EXT->CTRL-018, FORM->CTRL-010, ENAB->Digital Bill of Rights
+Treatment: MODERN APPLICATION — Extends free speech concerns to algorithmic era.
+[MASTER-CTRL-024] Cult of Deep State Tyranny
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: CTRL-019, CTRL-015
+Relationships: EXT->CTRL-019, EXT->CTRL-015, XREF->Cultology
+Treatment: PSYCHOLOGICAL — Explains WHY so many comply with unconstitutional orders.
+[MASTER-CTRL-025] Four Failures of False Rule of Law
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-015, CIV-013
+Relationships: EXT->CIV-015, ILLUS->CIV-013, GRND->Current prosecutions
+Treatment: DIAGNOSTIC CHECKLIST — Four-part test for identifying false rule of law.
+[MASTER-CTRL-026] Law of Criminal Behavior (Deception Requirement)
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: CTRL-024, EPIST-006
+Relationships: GRND->CTRL-024, GRND->LIB-019, CONTRA->Transparent malevolence, PARA->CIV-002
+Treatment: CORE PRINCIPLE — Explains WHY censorship is necessary for tyrants...
+[MASTER-CTRL-027] Middle Manager Thesis
+Domain: CTRL-MECH | Novelty: AUTHOR-COINED | Source: BR
+Dependencies: CIV-011, CIV-026
+Relationships: EXT->CIV-011, COMP<-CIV-026, ENAB->GEOPOL-006
+Treatment: CENTRAL THESIS — Core actor group in parasitic enforcement.
+[MASTER-CTRL-028] AI Woke Programming Requirement
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: EPIST-016
+Relationships: CONTRA->EPIST-016, EXT->CTRL-018
+Treatment: REVELATORY — Shows parasitic ideology's unnatural character.
+[MASTER-CTRL-029] CBDC as Digital Enslavement Tool
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: CTRL-018
+Relationships: INST->CTRL-018, CONTRA->LIB-034
+Treatment: DYSTOPIAN — Highlight risks.
+[MASTER-CTRL-030] Uniparty as Globalist Front
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: GEOPOL-007
+Relationships: ENAB->GEOPOL-007, EXT->CTRL-017
+Treatment: POLITICAL — Exposes false dichotomy.
+[MASTER-CTRL-031] COVID as Compliance Test
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: BR-CTRL-MECH-01
+Relationships: INST->BR-CTRL-MECH-01, PARA->CTRL-035
+Treatment: RETROSPECTIVE — Uses recent event as evidence.
+[MASTER-CTRL-032] Endless Wars as Parasitic Drain
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: CTRL-030
+Relationships: ENAB-BY->CTRL-030, CONTRA->GEOPOL-009
+Treatment: GEOPOLITICAL — Connect to tariff's economic role in countering war profiteering.
+[MASTER-CTRL-033] Blackmail as Control Mechanism
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: CIV-029
+Relationships: MECH->CIV-029, CONTRA->GEOPOL-010
+Treatment: KEY LEVER — Central to understanding elite control.
+[MASTER-CTRL-034] Internal-External Pressure Strategy
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: CTRL-033
+Relationships: COMP->CTRL-033, EXT->CTRL-017
+Treatment: DUAL MECHANISM — Explains comprehensive control.
+[MASTER-CTRL-035] Epstein as Identification Tool
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: CTRL-033
+Relationships: INST->CTRL-033, ENAB->GEOPOL-010
+Treatment: INTELLIGENCE — Frames Epstein as sting rather than just scandal.
+[MASTER-CTRL-036] Cheating as Systemic Feature
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: CIV-029
+Relationships: INST->CIV-029, GRND->GEOPOL-013
+Treatment: REFRAMING — Shifts from "isolated incidents" to inherent design.
+[MASTER-CTRL-037] Financial-Grid Symbiosis
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CIV-031
+Relationships: COMP->CIV-031, ENAB->CIV-036
+Treatment: STRUCTURAL — Shows dual control.
+[MASTER-CTRL-038] Iceberg Power Structure
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-039
+Relationships: COMP->CTRL-039, GRND->CTRL-040
+Treatment: METAPHOR — Visualizes hidden power.
+[MASTER-CTRL-039] Russian Dolls Structure
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-038
+Relationships: COMP->CTRL-038, ENAB->CTRL-043
+Treatment: METAPHOR — Layers of concealment.
+[MASTER-CTRL-040] Three Pillars of Power
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: STRAT-011
+Relationships: GRND->STRAT-011, COMP->CTRL-038
+Treatment: STRUCTURAL — Core operational model.
+[MASTER-CTRL-041] Multi-Vector Population Control
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CIV-037
+Relationships: COMP->CIV-037, ENAB->THEO-011
+Treatment: COMPREHENSIVE — Shows population as managed asset.
+[MASTER-CTRL-042] Boom-Bust Wealth Transfer Cycles
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CIV-039
+Relationships: COMP->CIV-039, PARA->financial manipulation mechanisms
+Treatment: ECONOMIC — Shows cycles as intentional.
+[MASTER-CTRL-043] Skin-Wearing Parasitism
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-039
+Relationships: COMP->CTRL-039, PARA->institutional capture mechanisms
+Treatment: METAPHOR — Explains infiltration.
+[MASTER-CTRL-044] Grid Switch Control
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CIV-032
+Relationships: ENAB->CIV-031, COMP->CTRL-037
+Treatment: LEVERAGE — Ultimate control tool.
+[MASTER-CTRL-045] Suppressed Technology Monopolization
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CIV-041
+Relationships: ENAB->CIV-041, CONTRA->LIB-037
+Treatment: CONTROL — Shows tech as power tool.
+[MASTER-CTRL-046] Extrinsic vs Intrinsic Knowledge Systems
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-040
+Relationships: GRND->CTRL-040, PARA->epistemological liberation concepts
+Treatment: EPISTEMIC — Explains cult maintenance.
+[MASTER-CTRL-047] Blackmail Economy
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: STRAT-012
+Relationships: COMP->STRAT-012, ENAB->STRAT-007
+Treatment: SHADOW — Real power system.
+[MASTER-CTRL-048] Three Cities Power Structure
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-038
+Relationships: COMP->CTRL-038, PARA->institutional power mapping
+Treatment: GEOPOL — Western power hubs.
+[MASTER-CTRL-049] Biopolitical Compliance Testing
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-041
+Relationships: COMP->CTRL-041, PARA->institutional coercion mechanisms
+Treatment: RECENT — Uses COVID as example.
+[MASTER-CTRL-050] Propaganda Feedback Loop
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-040
+Relationships: COMP->CTRL-040, PARA->media manipulation mechanisms
+Treatment: CYCLIC — Explains persistence.
+[MASTER-CTRL-051] Prosecutorial Leverage Model
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: GEOPOL-013
+Relationships: GRND->GEOPOL-013, ENAB->Recruitment of former adversaries, PARA->HIST-013
+Treatment: OPERATIONAL — Explains apparent contradictions in Trump approach.
+[MASTER-CTRL-052] Culture as Conceptual Infrastructure
+Domain: CTRL-MECH | Novelty: AUTHOR-COINED | Source: MEMO
+Dependencies: None
+Relationships: ENAB->CTRL-053, GRND->PSYCH-016, ENAB->LIB-040
+Treatment: FOUNDATIONAL — Critical control mechanism concept.
+[MASTER-CTRL-053] Media as Gateway Mechanism
+Domain: CTRL-MECH | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: CTRL-052
+Relationships: COMP->CTRL-052, CONTRA->LIB-040
+Treatment: FOUNDATIONAL — Extends culture-as-Lowe's to explain HOW the store gets...
+DOMAIN: LIB-MECH (LIB)
+Concept Count: 41
+[MASTER-LIB-001] Agenda 47
+Domain: LIB-MECH | Novelty: ESTABLISHED | Source: S00
+Dependencies: CIV-001
+Relationships: CONTRA->CIV-001, CONTRA->CTRL-002, ENAB->CIV-003, ENAB-BY->LIB-002, COMP->LIB-003
+Treatment: SERIES SUBJECT — The object of analysis for entire series.
+[MASTER-LIB-002] White Hat Alliance
+Domain: LIB-MECH | Novelty: COMMON | Source: S00
+Dependencies: LIB-001
+Relationships: ENAB->LIB-001, CONTRA->CTRL-002
+Treatment: CONTEXTUAL — Establishes Trump is not alone.
+[MASTER-LIB-003] Operational Security Doctrine
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S00
+Dependencies: LIB-001
+Relationships: COMP<-LIB-001, ENAB->Success of operation
+Treatment: EXPLANATORY — Addresses why A47 requires "explanation" at all.
+[MASTER-LIB-004] Awakening/Activation Dynamic
+Domain: LIB-MECH | Novelty: COMMON | Source: S00
+Dependencies: LIB-001
+Relationships: ENAB-BY->LIB-001, CONTRA->PSYCH-002
+Treatment: EVIDENTIARY — Provides hope and observable confirmation.
+[MASTER-LIB-005] Agenda 47 Scope Declaration
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S01
+Dependencies: LIB-001
+Relationships: SPEC->LIB-001, COMP->Multiple policy domains, CONTRA->CIV-001
+Treatment: OVERVIEW — Sets reader expectations for series scope.
+[MASTER-LIB-006] Tariff Necessity Thesis
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S01
+Dependencies: CTRL-008
+Relationships: RESP->CTRL-008, ENAB->LIB-007, COMP->LIB-001
+Treatment: ARGUMENTATIVE — Anticipates isolationist criticism.
+[MASTER-LIB-007] Free Market Ideal
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S01
+Dependencies: LIB-006
+Relationships: GOAL->LIB-006, INST->CIV-003, ENAB->S00-GEOPOL-01
+Treatment: ASPIRATIONAL — The positive vision for economics.
+[MASTER-LIB-008] Sound Foundation for Prosperity
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S01
+Dependencies: LIB-001
+Relationships: GOAL->LIB-001, ENAB->CIV-003, GRND-BY->S00-THEO-01
+Treatment: ASPIRATIONAL — Key promise of series.
+[MASTER-LIB-009] Soil Preparation Strategy
+Domain: LIB-MECH | Novelty: AUTHOR-COINED | Source: S02
+Dependencies: LIB-001
+Relationships: PREREQ->LIB-001, EXEC-BY->LIB-012, TARG->PSYCH-004
+Treatment: STRATEGIC METAPHOR — Agricultural metaphor for MAGA's multi-year strategy.
+[MASTER-LIB-010] MAGA as Counter-Propaganda
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S02
+Dependencies: CTRL-009
+Relationships: CONTRA->CTRL-014, CONTRA->CTRL-009, DELIV-BY->LIB-012
+Treatment: REFRAMING — Acknowledges propaganda as tool while distinguishing benevolent from malevolent...
+[MASTER-LIB-011] Show Don't Tell Liberation
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S02
+Dependencies: PSYCH-003
+Relationships: ADDR->PSYCH-003, ADDR->PSYCH-006, METH->LIB-012
+Treatment: STRATEGIC PRINCIPLE — Explains MAGA methodology.
+[MASTER-LIB-012] MAGA Movement as Catalyst
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S02
+Dependencies: LIB-002
+Relationships: EXEC->LIB-009, DELIV->LIB-010, USES->LIB-011, PROD->LIB-004
+Treatment: CENTRAL — MAGA as intentional awakening operation, not just political campaign.
+[MASTER-LIB-013] Global Contagion Strategy
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S02
+Dependencies: LIB-012
+Relationships: EXT->LIB-012, PARA->GEOPOL-004, TARG->GEOPOL-003
+Treatment: SCOPE EXPANSION — Explains why MAGA is international phenomenon.
+[MASTER-LIB-014] Juxtaposition Awakening Technique
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S02
+Dependencies: LIB-011
+Relationships: METH->LIB-011, USED->LIB-012, CONTRA->PSYCH-004
+Treatment: TACTICAL — Specific technique within Show Don't Tell.
+[MASTER-LIB-015] Civic Stewardship Ideal
+Domain: LIB-MECH | Novelty: ESTABLISHED | Source: S02
+Dependencies: CIV-003
+Relationships: COMP->CIV-003, CONTRA->CTRL-011, REKIND->LIB-012
+Treatment: ASPIRATIONAL — The positive American identity that survives.
+[MASTER-LIB-016] Preamble as Liberation Document
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S02
+Dependencies: LIB-001
+Relationships: INTERP->REF-A47-PREAMBLE-01, PARA->GEOPOL-004, DELIV->LIB-010
+Treatment: FRAMING — Sets up how to read Agenda 47 preamble.
+[MASTER-LIB-017] Civilizational Immune Framework
+Domain: LIB-MECH | Novelty: AUTHOR-COINED | Source: S03
+Dependencies: CIV-013, CIV-015, LIB-017, CTRL-021
+Relationships: EXT->CIV-013, ILLUS->CIV-015, COMP<-LIB-017, CONTRA->CTRL-021
+Treatment: Merge treatment hints;
+[MASTER-LIB-018] Freedom of Association as Core Freedom
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: S02-THEO-01, CIV-012
+Relationships: ENAB->Freedom of speech, religion, GRND->S02-THEO-01, CONTRA->CIV-010
+Treatment: FOUNDATIONAL LIB — Often overlooked freedom that underlies speech and religion.
+[MASTER-LIB-019] Freedom of Speech as Liberation Key
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: LIB-001, CIV-010
+Relationships: EXT->LIB-001, CONTRA->CIV-010, ENAB->All other liberations, MECH->Exposing parasitic economy lies
+Treatment: CENTRAL THESIS — S03's core argument: free speech isn't just...
+[MASTER-LIB-020] Eternal Vigilance Requirement
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: LIB-015, CIV-011
+Relationships: EXT->LIB-015, ENAB->Sustainable liberation, REQ->Educated citizenry
+Treatment: FOUNDATIONAL — Essential counterbalance to liberation optimism.
+[MASTER-LIB-021] Information Sovereignty as Personal Right
+Domain: LIB-MECH | Novelty: AUTHOR-COINED | Source: S03
+Dependencies: LIB-019, S03-THEO-01
+Relationships: EXT->LIB-019, GRND->CTRL-023, ENAB->Personal growth framework
+Treatment: DEEP REFRAME — Profound expansion of free speech concept beyond legal/political...
+[MASTER-LIB-022] Public Square Concept
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: LIB-019, HIST-008
+Relationships: GRND->HIST-008, EXT->LIB-019, ENAB->Digital Bill of Rights
+Treatment: SPATIAL CONCEPT — Physical metaphor for information exchange space.
+[MASTER-LIB-023] Blueprint for Freedom Formula
+Domain: LIB-MECH | Novelty: AUTHOR-COINED | Source: S03
+Dependencies: CIV-012, CIV-003
+Relationships: FULF->CIV-003, EXT->CIV-012, REQ->LIB-020
+Treatment: SUMMARY FORMULA — Crystallizes the positive vision.
+[MASTER-LIB-024] Impoundment as Executive Check
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-013, LIB-023
+Relationships: MECH->Defunding censorship apparatus, GRND->DOGE operations, CONTRA->ICA as constitutional
+Treatment: LEGAL MECHANISM — Technical but essential.
+[MASTER-LIB-025] Digital Bill of Rights as Constitutional Extension
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: LIB-022, LIB-021
+Relationships: EXT->Constitutional framework, ADDR->CTRL-023, FULF->LIB-022
+Treatment: FORWARD-LOOKING — Specific policy proposal with constitutional grounding.
+[MASTER-LIB-026] Legal Person Concept
+Domain: LIB-MECH | Novelty: AUTHOR-COINED | Source: S03
+Dependencies: LIB-018, THEO-004
+Relationships: EXT->LIB-018, APPL->Rights in practice, ENAB->Understanding rights invocation
+Treatment: NEW TERM — Author introduces "legal person" as distinct concept.
+[MASTER-LIB-027] Rights as Organs of Freedom
+Domain: LIB-MECH | Novelty: AUTHOR-COINED | Source: S03
+Dependencies: LIB-026, PSYCH-007
+Relationships: EXT->LIB-026, ILLUS->PSYCH-007, ENAB->Practical rights maintenance
+Treatment: BIOLOGICAL METAPHOR — Powerful extended analogy connecting physical health to...
+[MASTER-LIB-028] Seven Benefits of Freedom of Speech
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: LIB-019, LIB-023
+Relationships: EXT->LIB-019, APPL->LIB-023, GRND->Why free speech is foundational
+Treatment: ENUMERATION — Comprehensive list of free speech functions beyond "protest rights."
+[MASTER-LIB-029] Seven Benefits of Freedom of Speech (Expanded)
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: LIB-019, CIV-012
+Relationships: GRND->LIB-019, ENAB->CIV-012
+Treatment: This expands [S03-LIB-MECH-12] into granular sub-benefits;
+[MASTER-LIB-030] Excellence and Freedom Connection
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: EPIST-006, THEO-003
+Relationships: ENAB->EPIST-006, GRND->THEO-003
+Treatment: Connects individual psychological freedom to civilizational economic outcomes.
+[MASTER-LIB-031] Personal Development Through Free Expression
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: LIB-030, PSYCH-007
+Relationships: ENAB->LIB-030, GRND->PSYCH-007
+Treatment: Micro-scale benefit connecting to macro civilizational outcomes.
+[MASTER-LIB-032] Peace Instead of War Through Speech
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: S03
+Dependencies: CTRL-015, CIV-021
+Relationships: CONTRA->CTRL-015, ENAB->CIV-021
+Treatment: Connects free speech to geopolitical peace;
+[MASTER-LIB-033] MAGA Counter-Propaganda Strategy
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: BR-CTRL-MECH-01
+Relationships: COUNTERS->BR-CTRL-MECH-01, ENAB->GEOPOL-006
+Treatment: STRATEGIC — Mirrors globalist methods for liberation.
+[MASTER-LIB-034] CBDC Ban as Liberation Step
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: CTRL-029
+Relationships: COUNTERS->CTRL-029, EXT->LIB-006
+Treatment: POLICY — Frames EO as proactive liberation.
+[MASTER-LIB-035] Tariff as Economic Immune System
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: LIB-006
+Relationships: EXT->LIB-006, PARA->LIB-017
+Treatment: METAPHOR — Extends tariff thesis to health/protection frame.
+[MASTER-LIB-036] Defection Cascade Mechanism
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: GEOPOL-010
+Relationships: MECH->GEOPOL-010, ENAB->GEOPOL-012
+Treatment: DYNAMIC — Describes how exposure leads to system unraveling.
+[MASTER-LIB-037] Mass Survivability Deployment
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: STRAT-010
+Relationships: CONTRA->STRAT-009, COMP->STRAT-010
+Treatment: POSITIVE — Counter to selective.
+[MASTER-LIB-038] Symbiotic Economy Prerequisites
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-046
+Relationships: GRND->CTRL-046, ENAB->STRAT-010
+Treatment: TRANSITION — Beyond tech/politics.
+[MASTER-LIB-039] Tariffs as Control Mechanism Severance
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: BR
+Dependencies: BR-GEOPOL-03
+Relationships: ENAB->Renegotiation of economic relationships, PARA->Other liberation mechanisms, COMP->Economic liberation strategy
+Treatment: OPERATIVE — Explains tariff strategy beyond economics.
+[MASTER-LIB-040] Cultural Seeding
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: CTRL-052
+Relationships: ENAB->STRAT-003, CONTRA->CTRL-053, ENAB->LIB-041
+Treatment: OPERATIVE — Core liberation mechanism.
+[MASTER-LIB-041] Desire Activation
+Domain: LIB-MECH | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: STRAT-004
+Relationships: REQ->STRAT-004, COMP->PSYCH-018
+Treatment: OPERATIVE — Completes liberation sequence: seeding → realization → desire...
+DOMAIN: EPIST (EPIST)
+Concept Count: 21
+[MASTER-EPIST-001] Birthright Knowledge
+Domain: EPIST | Novelty: FRAMEWORK | Source: S00
+Dependencies: S00-THEO-01
+Relationships: GRND-BY->S00-THEO-01, ENAB->CIV-003, SUPP-BY->CIV-001
+Treatment: MOTIVATIONAL — Establishes stakes (we've lost something precious) and hope...
+[MASTER-EPIST-002] Civilizational Knowledge Deprivation
+Domain: EPIST | Novelty: FRAMEWORK | Source: S01
+Dependencies: EPIST-001
+Relationships: EXT->EPIST-001, GRND->Series pedagogical purpose, ENAB-BY->CTRL-001
+Treatment: SERIES PURPOSE — Establishes educational mission.
+[MASTER-EPIST-003] Seeding the Preamble
+Domain: EPIST | Novelty: FRAMEWORK | Source: S02
+Dependencies: LIB-009
+Relationships: INST->LIB-009, PREP->LIB-016
+Treatment: TACTICAL — Reveals intentionality of Trump's communication over time.
+[MASTER-EPIST-004] Speaking to Future Generations
+Domain: EPIST | Novelty: FRAMEWORK | Source: S02
+Dependencies: EPIST-001
+Relationships: EXT->EPIST-001, CONTEXT->LIB-016, CONN->LIB-015
+Treatment: TEMPORAL — Agenda 47 as document for history, not just present.
+[MASTER-EPIST-005] Birthright of Universal Freedom
+Domain: EPIST | Novelty: FRAMEWORK | Source: S02
+Dependencies: EPIST-001
+Relationships: EXT->EPIST-001, GRND->LIB-013, GRND->GEOPOL-004
+Treatment: RESOLUTION — Resolves apparent tension between "America First" and global...
+[MASTER-EPIST-006] Truth as Natural Unifier
+Domain: EPIST | Novelty: FRAMEWORK | Source: S03
+Dependencies: S02-THEO-03, S02-EPIST-01
+Relationships: EXT->S02-THEO-03, GRND->LIB-019, CONTRA->Propaganda/censorship
+Treatment: EPISTEMOLOGICAL — Key insight explaining why truth-seeking produces order while...
+[MASTER-EPIST-007] Narrative as Reality-Shaping Force
+Domain: EPIST | Novelty: FRAMEWORK | Source: S03
+Dependencies: EPIST-006, CTRL-009
+Relationships: EXT->EPIST-006, MECH->CTRL-009, ENAB->Understanding of censorship necessity
+Treatment: EPISTEMOLOGICAL — Explains WHY narrative control matters: narratives coordinate behavior.
+[MASTER-EPIST-008] Citizen Maturation Framework
+Domain: EPIST | Novelty: FRAMEWORK | Source: S03
+Dependencies: LIB-023, CIV-012
+Relationships: SUPP->LIB-023, EXT->CIV-012, PARA->Child development to civic development
+Treatment: DEVELOPMENTAL — Accessible analogy (toddler) for abstract concept.
+[MASTER-EPIST-009] Natural Law vs Positive Law Distinction
+Domain: EPIST | Novelty: FRAMEWORK | Source: S03
+Dependencies: S03-THEO-01, S02-THEO-02
+Relationships: EXT->S03-THEO-01, GRND->S02-THEO-02, CONTRA->Pure democracy / majority rule
+Treatment: JURISPRUDENTIAL — Deep legal philosophy underlying everything.
+[MASTER-EPIST-010] Humility and Consensus Through Truth-Seeking
+Domain: EPIST | Novelty: FRAMEWORK | Source: S03
+Dependencies: EPIST-006, THEO-004
+Relationships: EXT->EPIST-006, ENAB->LIB-023, CONTRA->Coercion-based consensus
+Treatment: SPIRITUAL-EPISTEMIC — Bridges theology and epistemology.
+[MASTER-EPIST-011] Actus Reus and Mens Rea as Justice Measurement
+Domain: EPIST | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-015, LIB-017
+Relationships: APPL->CIV-015, GRND->Due process purpose, ENAB->Understanding justice failure
+Treatment: LEGAL PRECISION — Technical legal terms grounded in accessible measuring analogy.
+[MASTER-EPIST-012] Due Process as Civilizational Engine Part
+Domain: EPIST | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-018, EPIST-011
+Relationships: EXT->CIV-018, APPL->EPIST-011, ENAB->Understanding due process purpose
+Treatment: MECHANICAL METAPHOR — Due process as "engine part" connects to civilization-as-technology...
+[MASTER-EPIST-013] Conservation of Valid Beliefs
+Domain: EPIST | Novelty: FRAMEWORK | Source: S03
+Dependencies: S03-CIV-SYS-07, THEO-003
+Relationships: PARA->S03-CIV-SYS-07, GRND->THEO-003
+Treatment: Bridges left-right political epistemology;
+[MASTER-EPIST-014] Extrinsic vs. Intrinsic Knowledge Distinction
+Domain: EPIST | Novelty: AUTHOR-COINED | Source: S03
+Dependencies: CTRL-024, EPIST-006
+Relationships: GRND->CTRL-024, ENAB->PSYCH-008, CONTRA->Dogmatic institutional compliance, PARA->EPIST-001
+Treatment: FOUNDATIONAL EPISTEMOLOGY — This distinction underlies why education matters and why...
+[MASTER-EPIST-015] Three-Tier Law Hierarchy
+Domain: EPIST | Novelty: FRAMEWORK | Source: S03
+Dependencies: EPIST-009, S03-THEO-01, THEO-003
+Relationships: EXT->EPIST-009, GRND->S03-THEO-01, ENAB->Understanding "rule of man" failure, CONTRA->Legal positivism
+Treatment: STRUCTURAL FRAMEWORK — This expands [S03-EPIST-04] Natural Law vs Positive...
+[MASTER-EPIST-016] AI Truth Convergence Thesis
+Domain: EPIST | Novelty: FRAMEWORK | Source: BR
+Dependencies: CTRL-028
+Relationships: CONTRA->CTRL-028, EXT->EPIST-006
+Treatment: SPECULATIVE — Frames AI as potential ally if unbiased.
+[MASTER-EPIST-017] Intrinsic Evaluation Imperative
+Domain: EPIST | Novelty: FRAMEWORK | Source: BR
+Dependencies: EPIST-014
+Relationships: EXT->EPIST-014, GRND->META-005
+Treatment: EPISTEMIC — Calls for ongoing discernment.
+[MASTER-EPIST-018] Omniological Process
+Domain: EPIST | Novelty: FRAMEWORK | Source: EG
+Dependencies: EPIST-019
+Relationships: GRND->All analytical concepts, PARA->series methodology statement
+Treatment: METHOD — Series approach.
+[MASTER-EPIST-019] Epistemic Regress Practice
+Domain: EPIST | Novelty: FRAMEWORK | Source: EG
+Dependencies: EPIST-018
+Relationships: COMP->EPIST-018, PARA->epistemological concepts
+Treatment: TECHNIQUE — Core analysis tool.
+[MASTER-EPIST-020] Plausible Speculation Zone
+Domain: EPIST | Novelty: FRAMEWORK | Source: EG
+Dependencies: STRAT-007
+Relationships: COMP->EPIST-018, GRND->STRAT-007
+Treatment: ZONE — For speculative sections.
+[MASTER-EPIST-021] Theory vs Emphatic Belief Distinction
+Domain: EPIST | Novelty: FRAMEWORK | Source: EG
+Dependencies: EPIST-018
+Relationships: GRND->All series conclusions, PARA->series methodology statement
+Treatment: DISCLAIMER — Series framing.
+DOMAIN: THEO (THEO)
+Concept Count: 14
+[MASTER-THEO-001] Divine/Natural Order
+Domain: THEO | Novelty: ESTABLISHED | Source: S00
+Dependencies: None (ultimate grounding)
+Relationships: GRND->CIV-003, CONTRA->CTRL-001
+Treatment: FOUNDATIONAL — Provides ultimate grounding for freedom claims.
+[MASTER-THEO-002] Theism as Epistemological Foundation
+Domain: THEO | Novelty: FRAMEWORK | Source: S03
+Dependencies: S02-THEO-01, S02-THEO-02
+Relationships: EXT->S02-THEO-01, EXT->S02-THEO-02, GRND->EPIST-001, CONTRA->Secularism/atheism
+Treatment: FOUNDATIONAL THEO — Key expansion of S02's theological grounding.
+[MASTER-THEO-003] Theism as Omniological Foundation
+Domain: THEO | Novelty: AUTHOR-COINED | Source: S03
+Dependencies: THEO-002
+Relationships: GRND->THEO-002, XREF->Cultology omniological framework, CONTRA->Materialist cosmologies
+Treatment: DEEP PHILOSOPHY — Connects to Cultology framework.
+[MASTER-THEO-004] Consciousness, Free Will, and Speech as Liberty Pillars
+Domain: THEO | Novelty: FRAMEWORK | Source: S03
+Dependencies: THEO-003, LIB-019
+Relationships: APPL->THEO-003, GRND->LIB-019, ENAB->Contract-based civilization
+Treatment: THEISTIC LIBERTY — Maps theological concepts to political framework.
+[MASTER-THEO-005] Triune Government Structure
+Domain: THEO | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-014, THEO-003
+Relationships: EXT->CIV-014, APPL->THEO-003, ILLUS->Separation of powers purpose
+Treatment: THEOLOGICAL-POLITICAL — May be controversial to secular audience.
+[MASTER-THEO-006] Simulation Theory as Theism Bridge
+Domain: THEO | Novelty: FRAMEWORK | Source: S03
+Dependencies: THEO-003, THEO-002, EPIST-009
+Relationships: EXT->THEO-003, ENAB->Secular audience engagement, GRND->Natural law, PARA->Scientific method
+Treatment: BRIDGING CONCEPT — Extends [S03-THEO-02] Theism as Omniological Foundation by...
+[MASTER-THEO-007] TM-THEO-01: Moses Parallel (Trump as Moses Figure)
+Domain: THEO | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: STRAT-001
+Relationships: ILLUS->STRAT-001, GRND->TM-PSYCH-01
+Treatment: THEOLOGICAL ANALOGY — Frames operation in biblical terms for faith-based audience.
+[MASTER-THEO-008] TM-THEO-02: Assassination as Mobilization Miracle
+Domain: THEO | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: THEO-007
+Relationships: EXT->THEO-007, ENAB->STRAT-003
+Treatment: STRATEGIC THEOLOGY — Functional analysis: miracle (real or staged) as tool...
+[MASTER-THEO-009] Free Will Preservation Imperative
+Domain: THEO | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: STRAT-002
+Relationships: GRND->STRAT-002, CONTRA->Full disclosure approaches
+Treatment: THEOLOGICAL CONSTRAINT — Grounds strategic patience.
+[MASTER-THEO-010] Cyclical Cataclysm Hypothesis
+Domain: THEO | Novelty: FRAMEWORK | Source: EG
+Dependencies: HIST-019
+Relationships: GRND->STRAT-009, PARA->HIST-019, ENAB->THEO-013
+Treatment: SPECULATIVE — Highly controversial.
+[MASTER-THEO-011] Mass Ritual Sacrifice Hypothesis
+Domain: THEO | Novelty: SPECULATIVE | Source: EG
+Dependencies: THEO-010, THEO-012
+Relationships: COMP->CTRL-041, GRND->THEO-012
+Treatment: HIGHLY SPECULATIVE — Most controversial concept.
+[MASTER-THEO-012] Dark Occult Ideology
+Domain: THEO | Novelty: FRAMEWORK | Source: EG
+Dependencies: HIST-014
+Relationships: GRND->CTRL-043, COMP->HIST-014
+Treatment: SPECULATIVE — Present as explanatory framework for otherwise inexplicable elite...
+[MASTER-THEO-013] Pole Shift Event Scenario
+Domain: THEO | Novelty: SPECULATIVE | Source: EG
+Dependencies: THEO-010
+Relationships: COMP->THEO-010, GRND->STRAT-009
+Treatment: HIGHLY SPECULATIVE — Specific predictions.
+[MASTER-THEO-014] Climate Change as Cosmic Phenomenon
+Domain: THEO | Novelty: FRAMEWORK | Source: EG
+Dependencies: THEO-010
+Relationships: COMP->THEO-010, ENAB->EG-STRAT-OPS-08
+Treatment: SPECULATIVE — Present as alternative hypothesis.
+DOMAIN: HIST (HIST)
+Concept Count: 21
+[MASTER-HIST-001] West Virginia Coal Miner Conquest
+Domain: HIST | Novelty: ESTABLISHED | Source: S00
+Dependencies: None (historical evidence)
+Relationships: GRND->PSYCH-001, GRND->PSYCH-002, PARA->CTRL-003
+Treatment: GROUNDING EXAMPLE — Primary historical illustration for abstract concepts.
+[MASTER-HIST-002] Dinner With Andre Quote
+Domain: HIST | Novelty: ESTABLISHED | Source: S00
+Dependencies: None (illustrative)
+Relationships: PARA->PSYCH-002, PARA->CIV-001
+Treatment: CULTURAL TOUCHSTONE — Accessible reference for certain audiences.
+[MASTER-HIST-003] Unam Sanctam (1302) - Papal Authority Claim
+Domain: HIST | Novelty: ESTABLISHED | Source: S01
+Dependencies: None (historical fact)
+Relationships: GRND->HIST-004, GRND->CTRL-001, EARLY->CIV-001
+Treatment: HISTORICAL EVIDENCE — Specific historical grounding.
+[MASTER-HIST-004] Doctrine of Discovery and Colonial Enterprises
+Domain: HIST | Novelty: ESTABLISHED | Source: S01
+Dependencies: HIST-003
+Relationships: ENAB-BY->HIST-003, GRND->HIST-006, PARA->Modern corporate-state fusion
+Treatment: HISTORICAL EVIDENCE — Well-documented history.
+[MASTER-HIST-005] Federal Reserve Era
+Domain: HIST | Novelty: ESTABLISHED | Source: S01
+Dependencies: S00-HIST-01
+Relationships: GRND->CTRL-006, GRND->CTRL-008, COMP->S00-HIST-01
+Treatment: PIVOTAL MOMENT — Widely discussed in alternative circles.
+[MASTER-HIST-006] Cestui Que Vie Act (1666)
+Domain: HIST | Novelty: ESTABLISHED | Source: S01
+Dependencies: HIST-004
+Relationships: ENAB-BY->HIST-004, GRND->Modern legal system critique, COMP->CIV-001
+Treatment: HISTORICAL EVIDENCE — Specific and verifiable.
+[MASTER-HIST-007] Operation Mockingbird Legacy
+Domain: HIST | Novelty: ESTABLISHED | Source: S03
+Dependencies: CTRL-009, S02-HIST-02
+Relationships: GRND->CTRL-021, EXT->S02-HIST-02, ENAB->Current prosecution rationale
+Treatment: HISTORICAL GROUNDING — Anchors current censorship claims in documented historical...
+[MASTER-HIST-008] SCOTUS 2024 Free Speech Cases
+Domain: HIST | Novelty: ESTABLISHED | Source: S03
+Dependencies: CIV-013, LIB-022
+Relationships: ILLUS->CIV-013, ENAB->LIB-025, GRND->Public square analysis
+Treatment: LEGAL REFERENCE — Specific cases grounding analysis.
+[MASTER-HIST-009] 2020 Constitutional Crisis (Censorship Rebellion)
+Domain: HIST | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-013, HIST-007
+Relationships: GRND->Current prosecution rationale, EXT->CIV-013, ENAB->Second term executive action justification
+Treatment: HISTORICAL ANCHOR — Specific documented instance of constitutional breakdown.
+[MASTER-HIST-010] Impoundment Historical Precedent
+Domain: HIST | Novelty: ESTABLISHED | Source: S03
+Dependencies: LIB-024
+Relationships: GRND->LIB-024, PARA->Current Trump/DOGE actions
+Treatment: HISTORICAL GROUNDING — Verifiable historical examples.
+[MASTER-HIST-011] Exodus Parallel (40-Year Reformation)
+Domain: HIST | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: THEO-007
+Relationships: EXT->THEO-007, GRND->STRAT-005
+Treatment: TEMPORAL TEMPLATE — Sets expectations for multi-decade transformation.
+[MASTER-HIST-012] Banking-Technology Industrial Cycle
+Domain: HIST | Novelty: FRAMEWORK | Source: BR
+Dependencies: HIST-012
+Relationships: GRND->HIST-012, PARA->CIV-024
+Treatment: PATTERN RECOGNITION — Historical cycle showing continuity of parasitic methods.
+[MASTER-HIST-013] Teapot Dome Blueprint
+Domain: HIST | Novelty: FRAMEWORK | Source: BR
+Dependencies: GEOPOL-010
+Relationships: PARA->GEOPOL-010, GRND->CTRL-034
+Treatment: HISTORICAL PATTERN — Shows continuity in handling scandals.
+[MASTER-HIST-014] Sabbatean-Frankist Movement
+Domain: HIST | Novelty: ESTABLISHED | Source: EG
+Dependencies: CTRL-043
+Relationships: GRND->CTRL-043, COMP->CTRL-039
+Treatment: IDEOLOGICAL — Key historical root.
+[MASTER-HIST-015] Doctrine of Discovery and Trade War
+Domain: HIST | Novelty: FRAMEWORK | Source: EG
+Dependencies: HIST-016
+Relationships: GRND->HIST-016, COMP->HIST-018
+Treatment: ECONOMIC — Colonialism as finance strategy.
+[MASTER-HIST-016] Conquest of Asia Sequence
+Domain: HIST | Novelty: FRAMEWORK | Source: EG
+Dependencies: HIST-017
+Relationships: COMP->HIST-015, ENAB->GEOPOL-015
+Treatment: SEQUENCE — Step-by-step breakdown.
+[MASTER-HIST-017] Keenan Lawsuit and Forbidden Bonds
+Domain: HIST | Novelty: ESTABLISHED | Source: EG
+Dependencies: GEOPOL-015
+Relationships: GRND->GEOPOL-015, COMP->HIST-018
+Treatment: LEGAL — Evidence of crimes.
+[MASTER-HIST-018] Western Banking Imperialism
+Domain: HIST | Novelty: FRAMEWORK | Source: EG
+Dependencies: HIST-016
+Relationships: GRND->colonial conquest rationale, ENAB->CTRL-042
+Treatment: OVERVIEW — Financial history.
+[MASTER-HIST-019] Ancient Cataclysm Memory
+Domain: HIST | Novelty: FRAMEWORK | Source: EG
+Dependencies: HIST-020
+Relationships: GRND->THEO-010, ENAB->HIST-020
+Treatment: MYTHIC — Evidence from legends.
+[MASTER-HIST-020] Ancient Knowledge Preservation
+Domain: HIST | Novelty: FRAMEWORK | Source: EG
+Dependencies: HIST-021
+Relationships: COMP->HIST-019, ENAB->THEO-010
+Treatment: THESIS that cyclical disaster knowledge has been preserved across millennia...
+[MASTER-HIST-021] Encoded Symbolism in Modern Cities
+Domain: HIST | Novelty: FRAMEWORK | Source: EG
+Dependencies: HIST-020
+Relationships: COMP->HIST-020, GRND->CTRL-039
+Treatment: EVIDENCE — Modern continuity.
+DOMAIN: GEOPOL (GEOPOL)
+Concept Count: 19
+[MASTER-GEOPOL-001] British Empire as Proto-Globalism
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: S01
+Dependencies: CTRL-002
+Relationships: HIST-INST->CTRL-002, GRND->American Revolution as anti-globalist, PARA->Modern globalist structures
+Treatment: REFRAMING — Places American founding in anti-globalist frame.
+[MASTER-GEOPOL-002] Greatest Anti-Globalist Campaign
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: S01
+Dependencies: LIB-001
+Relationships: ASSESS->LIB-001, CONTRA->CIV-001, ENAB->LIB-004
+Treatment: THESIS STATEMENT — Bold claim establishing stakes.
+[MASTER-GEOPOL-003] US as Globalist Spear Tip
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: S02
+Dependencies: CTRL-002
+Relationships: EXT->CTRL-002, EXPLAINS->LIB-013, TARG->LIB-001
+Treatment: GEOPOLITICAL — Explains why US is center stage.
+[MASTER-GEOPOL-004] Founding Fathers Pattern
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: S02
+Dependencies: LIB-013
+Relationships: PARA->LIB-013, GRND->LIB-016, GRND->LIB-015
+Treatment: HISTORICAL PARALLEL — MAGA as continuation of founding vision.
+[MASTER-GEOPOL-005] Tariffs as Information Economy Analogy
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: S03
+Dependencies: LIB-006, LIB-021
+Relationships: PARA->LIB-006, ILLUS->LIB-021, BRIDGES->Economic/information analysis
+Treatment: BRIDGING CONCEPT — Connects economic policy (tariffs) to information policy...
+[MASTER-GEOPOL-006] Stargate AI as MAGA Tool
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: BR
+Dependencies: GEOPOL-001
+Relationships: INST->GEOPOL-001, EXT->BR-LIB-MECH-01
+Treatment: SPECIFIC OPERATION — Example of counter-propaganda.
+[MASTER-GEOPOL-007] Uniparty Consensus Breaking
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: BR
+Dependencies: CTRL-030
+Relationships: TARG->CTRL-030, USES->LIB-035
+Treatment: STRATEGIC GOAL — Key objective.
+[MASTER-GEOPOL-008] Tariff as Deep State Weapon
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: BR
+Dependencies: LIB-035
+Relationships: EXT->LIB-035, TARG->CIV-027
+Treatment: OFFENSIVE TOOL — Frames tariff offensively.
+[MASTER-GEOPOL-009] War Hawk Realignment
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: BR
+Dependencies: CTRL-032
+Relationships: COUNTERS->CTRL-032, USES->LIB-035
+Treatment: INCENTIVE FLIP — Economic strategy for geopolitical change.
+[MASTER-GEOPOL-010] Sting Operation Model
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: BR
+Dependencies: CIV-030
+Relationships: USES->CIV-030, ENAB->LIB-036
+Treatment: ANALOGY — Frames actions as law enforcement.
+[MASTER-GEOPOL-011] Trump Mission Three Phases
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: BR
+Dependencies: GEOPOL-010
+Relationships: STRUCT->GEOPOL-010, ENAB->GEOPOL-012
+Treatment: PHASED PLAN — Structures understanding of operations.
+[MASTER-GEOPOL-012] Defection Incentive
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: BR
+Dependencies: BR-CTRL-MECH-12
+Relationships: COMPL->BR-CTRL-MECH-12, ENAB->LIB-036
+Treatment: CARROT APPROACH — Complements pressure (stick).
+[MASTER-GEOPOL-013] Blackmail Transfer Strategy
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: BR
+Dependencies: CTRL-033
+Relationships: REV->CTRL-033, PART->META-005
+Treatment: COVERT TOOL — Explains quiet flips.
+[MASTER-GEOPOL-014] Middle Road Political Strategy
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: BR
+Dependencies: BR-CIV-SYS-08
+Relationships: METH->BR-CIV-SYS-08, ENAB->Coalition preservation
+Treatment: TACTICAL — Explains apparent contradictions.
+[MASTER-GEOPOL-015] East-West Dynastic Reconciliation
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: EG
+Dependencies: STRAT-008
+Relationships: COMP->STRAT-008, GRND->HIST-016
+Treatment: HYPOTHESIS that Trump's Forbidden City dinner represented a ritual...
+[MASTER-GEOPOL-016] UAP Disclosure Institutionalization
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-045
+Relationships: ENAB->CTRL-045, COMP->STRAT-010
+Treatment: RECOGNITION that UAP disclosure has shifted from taboo to...
+[MASTER-GEOPOL-017] Resilience Cooperation Hypothesis
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: EG
+Dependencies: STRAT-013
+Relationships: COMP->STRAT-008, ENAB->LIB-037
+Treatment: SPECULATIVE framework for cooperation between US and international partners...
+[MASTER-GEOPOL-018] Agenda 47 as Esoteric Resilience Blueprint
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: EG
+Dependencies: STRAT-007
+Relationships: GRND->STRAT-014, COMP->STRAT-007
+Treatment: INTERPRETATION that Agenda 47's public policy positions are the...
+[MASTER-GEOPOL-019] Strategic Gradualism Requirement
+Domain: GEOPOL | Novelty: FRAMEWORK | Source: BR
+Dependencies: BR-CIV-SYS-08
+Relationships: GRND->BR-CIV-SYS-08, CONTRA->Expectation of mass arrests, PARA->CIV-023
+Treatment: FOUNDATIONAL — Key thesis explaining pacing of reform.
+DOMAIN: PSYCH (PSYCH)
+Concept Count: 18
+[MASTER-PSYCH-001] Dependency-Defense Dynamic
+Domain: PSYCH | Novelty: FRAMEWORK | Source: S00
+Dependencies: CIV-002
+Relationships: ENAB-BY->CIV-002, ENAB->PSYCH-002, GRND-BY->HIST-001
+Treatment: PSYCHOLOGICAL KEY — Explains why people resist truth about their situation.
+[MASTER-PSYCH-002] Generational Forgetting
+Domain: PSYCH | Novelty: FRAMEWORK | Source: S00
+Dependencies: PSYCH-001
+Relationships: ENAB-BY->PSYCH-001, GRND-BY->HIST-001, PARA->HIST-002
+Treatment: TEMPORAL — Explains how control persists across generations.
+[MASTER-PSYCH-003] Mass Stockholm Syndrome
+Domain: PSYCH | Novelty: FRAMEWORK | Source: S02
+Dependencies: PSYCH-001
+Relationships: EXT->PSYCH-001, CAUSED->CTRL-009, ADDR->LIB-011
+Treatment: PSYCHOLOGICAL KEY — Named condition for population state.
+[MASTER-PSYCH-004] Cultural Capture
+Domain: PSYCH | Novelty: FRAMEWORK | Source: S02
+Dependencies: CTRL-012
+Relationships: CAUSED->CTRL-012, CAUSES->PSYCH-003, ADDR->LIB-009
+Treatment: SOCIAL MECHANISM — Explains why individual awakening isn't enough;
+[MASTER-PSYCH-005] Overton Window Expansion
+Domain: PSYCH | Novelty: ESTABLISHED | Source: S02
+Dependencies: None (established concept)
+Relationships: MECH->LIB-009, ENAB-BY->LIB-012
+Treatment: STRATEGIC — Established political science concept applied to MAGA strategy.
+[MASTER-PSYCH-006] Globalist-Compliant Citizens
+Domain: PSYCH | Novelty: FRAMEWORK | Source: S02
+Dependencies: PSYCH-003
+Relationships: PROD->PSYCH-003, TARG->LIB-011, TRANS->LIB-012
+Treatment: AUDIENCE CONCEPT — Identifies the target audience for MAGA's approach.
+[MASTER-PSYCH-007] Rights as Potential Treasures
+Domain: PSYCH | Novelty: FRAMEWORK | Source: S03
+Dependencies: THEO-004, LIB-026
+Relationships: EXT->THEO-004, ENAB->LIB-026, GRND->Trump's use of existing rights
+Treatment: EMPOWERING — Shifts from rights as abstract to rights as action.
+[MASTER-PSYCH-008] Tyrant's Preference for Ignorance
+Domain: PSYCH | Novelty: FRAMEWORK | Source: S03
+Dependencies: PSYCH-007, CIV-011
+Relationships: EXT->PSYCH-007, EXPLAINS->CIV-011, GRND->Trump's methodology
+Treatment: STRATEGIC INSIGHT — Explains WHY education is targeted.
+[MASTER-PSYCH-009] Psychological Health Through Communication
+Domain: PSYCH | Novelty: FRAMEWORK | Source: S03
+Dependencies: CIV-019, PSYCH-007
+Relationships: PARA->CIV-019, GRND->PSYCH-007
+Treatment: Bridges psychological wellbeing to political freedom;
+[MASTER-PSYCH-010] Complicity Through Benefits
+Domain: PSYCH | Novelty: FRAMEWORK | Source: BR
+Dependencies: PSYCH-001
+Relationships: EXT->PSYCH-001, GRND->BR-CTRL-MECH-01
+Treatment: PSYCHOLOGICAL — Explains why middle class resists change.
+[MASTER-PSYCH-011] Uniparty Compliance Psychology
+Domain: PSYCH | Novelty: FRAMEWORK | Source: BR
+Dependencies: CTRL-030
+Relationships: MECH->CTRL-030, PARA->PSYCH-003
+Treatment: MIXED MECHANISMS — Explains varied reasons for compliance.
+[MASTER-PSYCH-012] War Hawk Conditioning
+Domain: PSYCH | Novelty: FRAMEWORK | Source: BR
+Dependencies: CTRL-032
+Relationships: EXT->CTRL-032, CONTRA->GEOPOL-009
+Treatment: SPECIFIC GROUP — Subset of middle manager psychology.
+[MASTER-PSYCH-013] Elite Immunity Illusion
+Domain: PSYCH | Novelty: FRAMEWORK | Source: BR
+Dependencies: CIV-026
+Relationships: EXT->CIV-026, SHATTER->GEOPOL-012
+Treatment: PSYCHOLOGICAL HUBRIS — Explains arrogance.
+[MASTER-PSYCH-014] Collective Hypnosis / Cave Allegory
+Domain: PSYCH | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-050
+Relationships: ENAB->CTRL-050, PARA->psychological control concepts
+Treatment: PSYCH — Mass illusion.
+[MASTER-PSYCH-015] Truth Absorption Threshold
+Domain: PSYCH | Novelty: AUTHOR-COINED | Source: MEMO
+Dependencies: None
+Relationships: GRND->STRAT-002, GRND->STRAT-001, CONTRA->Full Disclosure
+Treatment: FOUNDATIONAL — Fundamental psychological constraint on liberation operations.
+[MASTER-PSYCH-016] Overton Window as Psychological Boundary
+Domain: PSYCH | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: CTRL-052
+Relationships: COMP->CTRL-052, ENAB->LIB-040, GRND->STRAT-003
+Treatment: FOUNDATIONAL — Extends Overton beyond politics to fundamental psychology.
+[MASTER-PSYCH-017] Battle Fatigue / Memetic Contagion
+Domain: PSYCH | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: None
+Relationships: GRND->STRAT-001, ENAB->STRAT-002
+Treatment: OPERATIVE — Explains cascading risk.
+[MASTER-PSYCH-018] Idea-Emotion-Value-Behavior Chain
+Domain: PSYCH | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: None
+Relationships: GRND->CTRL-052, ENAB->LIB-040
+Treatment: FOUNDATIONAL — Articulates mechanism by which cultural control translates to behavioral...
+DOMAIN: STRAT-OPS (STRAT)
+Concept Count: 14
+[MASTER-STRAT-001] Order Preservation Imperative
+Domain: STRAT-OPS | Novelty: FRAMEWORK | Source: BR
+Dependencies: TM-CIV-SYS-02, CIV-023
+Relationships: GRND->TM-CIV-SYS-02, EXT->CIV-023, ENAB->STRAT-002
+Treatment: CORE CONSTRAINT — Synthesizes why full disclosure is impossible;
+[MASTER-STRAT-002] Graduated Disclosure Requirement
+Domain: STRAT-OPS | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: PSYCH-015
+Relationships: ENAB-BY->PSYCH-015, GRND->STRAT-001
+Treatment: OPERATIONAL CONSTRAINT — Explains pacing of operations.
+[MASTER-STRAT-003] Cultural Seeding Phase
+Domain: STRAT-OPS | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: LIB-040
+Relationships: USES->LIB-040, PRECED->STRAT-004
+Treatment: PRE-LIBERATION — First phase in operations.
+[MASTER-STRAT-004] Realization Moment Engineering
+Domain: STRAT-OPS | Novelty: AUTHOR-COINED | Source: MEMO
+Dependencies: STRAT-004
+Relationships: USES->STRAT-004, FOLLOW->STRAT-003
+Treatment: ACTIVATION — Second phase.
+[MASTER-STRAT-005] Low-End Disclosure Spectrum
+Domain: STRAT-OPS | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: THEO-009
+Relationships: GRND->THEO-009, EXT->STRAT-002
+Treatment: Liberation operations operate on the low end of the disclosure spectrum—minimal...
+[MASTER-STRAT-006] Disclosure Spectrum Concept
+Domain: STRAT-OPS | Novelty: FRAMEWORK | Source: MEMO
+Dependencies: THEO-009
+Relationships: GRND->STRAT-005, EXT->STRAT-002
+Treatment: SCALING TOOL — Framework for disclosure decisions.
+[MASTER-STRAT-007] Positive Elite Faction Hypothesis
+Domain: STRAT-OPS | Novelty: FRAMEWORK | Source: EG
+Dependencies: STRAT-008
+Relationships: GRND->STRAT-008, ENAB->LIB-037
+Treatment: SPECULATIVE — Plausible based on patterns.
+[MASTER-STRAT-008] Trump's 2017 Realignment Tour
+Domain: STRAT-OPS | Novelty: FRAMEWORK | Source: EG
+Dependencies: GEOPOL-015
+Relationships: ENAB->GEOPOL-015, COMP->STRAT-007
+Treatment: GEOPOL — Ritual diplomacy.
+[MASTER-STRAT-009] Selective Survivability Planning
+Domain: STRAT-OPS | Novelty: FRAMEWORK | Source: EG
+Dependencies: CIV-042
+Relationships: CONTRA->LIB-037, ENAB->CIV-042
+Treatment: ELITE — Contrast with positive mass survivability.
+[MASTER-STRAT-010] Positive Endgame Phased Liberation
+Domain: STRAT-OPS | Novelty: FRAMEWORK | Source: EG
+Dependencies: STRAT-007
+Relationships: COMP->STRAT-007, ENAB->LIB-037
+Treatment: ROADMAP — Positive scenario outline.
+[MASTER-STRAT-011] Trump's Three-Pillar Mastery
+Domain: STRAT-OPS | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-040
+Relationships: GRND->CTRL-040, ENAB->STRAT-012
+Treatment: BIOGRAPHICAL — Trump's qualifications.
+[MASTER-STRAT-012] Blackmail Leverage Capture
+Domain: STRAT-OPS | Novelty: FRAMEWORK | Source: EG
+Dependencies: CTRL-047
+Relationships: COMP->CTRL-047, ENAB->STRAT-007
+Treatment: LEVERAGE — Turning tables.
+[MASTER-STRAT-013] BRICS Continuity Planning Parallel
+Domain: STRAT-OPS | Novelty: FRAMEWORK | Source: EG
+Dependencies: GEOPOL-017
+Relationships: PARA->GEOPOL-017, ENAB->LIB-037
+Treatment: GEOPOL — Parallel preparations.
+[MASTER-STRAT-014] Trump's Disruption Playbook
+Domain: STRAT-OPS | Novelty: FRAMEWORK | Source: EG
+Dependencies: STRAT-007
+Relationships: COMP->STRAT-007, ENAB->LIB-038
+Treatment: TACTICS — Trump's methods.
+DOMAIN: META (META)
+Concept Count: 5
+[MASTER-META-001] Series Structure Preview
+Domain: META | Novelty: META | Source: S01
+Dependencies: None (meta-framing)
+Relationships: FRAME->All subsequent articles, PROM->CIV-001, PROM->EPIST-001
+Treatment: META — Structural framing for series.
+[MASTER-META-002] Series Purpose Statement
+Domain: META | Novelty: META | Source: S02
+Dependencies: None (meta-framing)
+Relationships: FRAME->All analysis, PROM->CIV-001, PROM->EPIST-001
+Treatment: META — Authorial framing for series.
+[MASTER-META-003] Landslide Victory Context
+Domain: META | Novelty: META | Source: S02
+Dependencies: None (meta-framing)
+Relationships: ENAB->LIB-009, TRIG->CIV-008
+Treatment: META — Temporal context for series.
+[MASTER-META-004] S03 Scope Declaration
+Domain: META | Novelty: META | Source: S03
+Dependencies: META-001
+Relationships: FULF->META-001, FRAME->All S03 analysis
+Treatment: META — Authorial framing for S03.
+[MASTER-META-005] White Hat Scheming Thesis
+Domain: META | Novelty: AUTHOR-COINED | Source: BR
+Dependencies: None (meta-framing)
+Relationships: GRND->Interpretive frame for signals, ENAB->Understanding apparent contradictions, COMP->Series framework
+Treatment: META-ANALYTICAL — Interpretive frame for understanding confusing signals.
+================================================================================
+END OF INDEX
+VERIFICATION CHECKPOINT:
+ * CIV-SYS: 46
+ * CTRL-MECH: 53
+ * LIB-MECH: 41
+ * EPIST: 21
+ * THEO: 14
+ * HIST: 21
+ * GEOPOL: 19
+ * PSYCH: 18
+ * STRAT-OPS: 14
+ * META: 5
+   TOTAL: 252
